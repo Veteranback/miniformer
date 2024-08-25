@@ -32,5 +32,6 @@ python decode.py
 python eval.py
 ```
 
+- 对比：
 
-
+对比的Transformer可见：https://github.com/Veteranback/transformer
